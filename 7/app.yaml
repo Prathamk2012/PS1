@@ -1,0 +1,8 @@
+application : main
+version : 1
+runtime : python
+threadsafe : flase
+api_version : 1
+handlers :
+ - url : /
+   script : main1.app
